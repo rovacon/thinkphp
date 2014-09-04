@@ -1,0 +1,15 @@
+[ 2014-09-03T12:50:10+08:00 ] 127.0.0.1 /thinkphp/
+ERR: 模板不存在:./Index/Home/View/Index/index.html
+
+[ 2014-09-03T12:53:10+08:00 ] 127.0.0.1 /thinkphp/
+ERR: 模板不存在:./Index/Home/View/Index/index.html
+
+[ 2014-09-03T13:01:11+08:00 ] 127.0.0.1 /thinkphp/
+ERR: 模板不存在:./Index/Home/View/Index/index.html
+
+[ 2014-09-03T13:03:42+08:00 ] 127.0.0.1 /thinkphp//index.php
+ERR: 模板不存在:./Index/Home/View/Index/index.html
+
+[ 2014-09-03T13:03:45+08:00 ] 127.0.0.1 /thinkphp/index.php
+ERR: 模板不存在:./Index/Home/View/Index/index.html
+
